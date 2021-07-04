@@ -1,1 +1,1 @@
-https://saidullayev1991.github.io/rs-school/
+https://saidullayev1991.github.io/rsschool-cv/
