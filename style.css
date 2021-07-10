@@ -65,20 +65,20 @@ li{
     align-items: center;
 }
 .phone_number::before{
-    content:url(/images/phone_icon.svg);
+    content:url(./images/phone_icon.svg);
     vertical-align: middle;
     
 }
 .email_info::before{
-    content:url(/images/email.svg);
+    content:url(./images/email.svg);
     vertical-align: middle;
 }
 .location::before{
-    content:url(/images/location.svg);
+    content:url(./images/location.svg);
     vertical-align: middle;
 }
 .github::before{
-    content:url(/images/github.svg);
+    content:url(./images/github.svg);
     vertical-align: middle;
     filter: invert(1);
 }
