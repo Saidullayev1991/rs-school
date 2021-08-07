@@ -24,11 +24,14 @@ body{
 
 }
 .container{
-    width: 235px;
+    width: 234px;
     display: inline-block;
     background-color: #232C39;
     font-size: 14px;
     line-height: 20px;
+    border: solid 2px black;
+    border-right: none;
+    border-bottom: none;
 }
 .header_inner{
 width: 235px;
@@ -45,6 +48,7 @@ justify-content: center;
 .main_container{
    width: 360px;
    border: 2px solid;
+   border-bottom: none;
 }
 section{
     
@@ -131,7 +135,7 @@ hr {
     justify-content: space-around;
     align-items:center;
     border: 2px solid;
-    border-top: none;
+    border-top: 2px solid;
 
 }
 .logo_rss{
